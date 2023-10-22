@@ -1,4 +1,4 @@
-# Machine Learning For Short-Term Energy Consumption Forecasting #
+# Short-Term Energy Consumption Forecasting #
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ Welcome to my Short-Term Electricity Consumption Forecasting project. This is a 
 ## Getting Started
 
 - Clone this repository to your local machine to get started.
-- Install the required Python libraries using the provided `requirements.txt` file.
+- Install the required Python libraries which are pandas, NumPy, Matplotlib scikitlearn, Jupyter Notebook, and AutoARIMA.
 - Use Jupyter Notebook for in-depth data analysis and predictive modeling.
 - Leverage the capabilities of Power BI for interactive dashboard creation.
 
